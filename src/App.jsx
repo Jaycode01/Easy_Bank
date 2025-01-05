@@ -3,6 +3,7 @@ import Logo from "./assets/logo.svg";
 
 const App = () => {
   return (
+<<<<<<< HEAD
     <div>
       <div>
         <div className="">
@@ -68,5 +69,11 @@ const App = () => {
     </div>
   );
 };
+=======
+    <>
+    </>
+  )
+}
+>>>>>>> 3c8060e5097aa223978095f240c7c646644bfd81
 
 export default App;
