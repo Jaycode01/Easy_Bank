@@ -3,7 +3,7 @@ import HeroImage from "../assets/image-mockups.png";
 
 function Hero() {
   return (
-    <div className="flex flex-col-reverse md:flex-row px-3">
+    <div className="flex flex-col-reverse md:flex-row px-3 bg-white">
       <div className="md:pt-52 md:pl-20 flex flex-col md:gap-7 gap-5 pt-10  text-center md:text-left">
         <h1 className="md:text-6xl text-5xl">
           Next generation <br /> digital bank
