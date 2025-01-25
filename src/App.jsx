@@ -8,11 +8,7 @@ import Articles from "./components/Articles";
 const App = () => {
   return (
     <>
-      <Navbar />
-      <Hero />
-      <Dependability />
-      <Articles />
-      <Footer />
+      Moviemaniac 
     </>
   );
 };
